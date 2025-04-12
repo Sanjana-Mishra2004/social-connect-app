@@ -1,3 +1,4 @@
-images/posts/
-images/profile/
-!images/profile/defaultprofile.jpg
+assets/images/posts
+assets/images/profile
+!assets/images/profile/defaultprofile.jpg
+assets/php/mailerconfig.php
